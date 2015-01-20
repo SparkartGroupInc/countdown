@@ -1,12 +1,3 @@
 {
-  "name": "kbwood_countdown",
-  "version": "2.0.1",
-  "main": "jquery.countdown.js",
-  "ignore": [
-    "*.gif",
-    "*.html",
-    "*.json",
-    "*.md",
-    "*.png"
-  ]
+  "name": "kbwood_countdown"
 }
