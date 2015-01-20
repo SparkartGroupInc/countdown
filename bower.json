@@ -8,8 +8,6 @@
     "*.html",
     "*.json",
     "*.md",
-    "*.png",
-    "jquery.countdown-*.js",
-    "jquery.*.min.js"
+    "*.png"
   ]
 }
